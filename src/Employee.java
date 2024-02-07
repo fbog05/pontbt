@@ -41,6 +41,6 @@ public class Employee {
 
         sc.close();
 
-        System.out.println("A szolnokiak összesített fizetése: " + salaryTotal);
+        System.out.println("A szolnokiak összesített fizetése: " + salaryTotal + " Ft");
     }
 }
